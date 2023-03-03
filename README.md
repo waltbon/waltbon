@@ -1,11 +1,11 @@
-# Hi, 👋 I'm Walter Bonilla
+# I'm Walter Bonilla 👋 
 
 ### A Litle Bit About Me
-Behind every laptop there's an human, I'm one of those and I want to share my experiences in order to build better code together.
+Behind every laptop there's an human, so I enjoy to share and exchange Software Development knowledge with others, building good software solutions.
 - **Software Engineer** ‧ Since 2010.
 - **SaaS Enthusiast** ‧ Actually building a SaaS/FinTech in Costa Rica (2022).
-- **TypeScript Proeficency** ‧ I tend to build on TypeScript for all my solutions.
-- **Tech Lead** ‧ Cabana Data has been home since 2018.
+- **TypeScript Proeficency** ‧ I use to build on TypeScript for all my solutions.
+- **Tech Lead** ‧ Cabana Data has been home since 2019.
 
 ## Frameworks
 - **Backend Frameworks** ‧ NodeJS, AngularJS, ReactJS
